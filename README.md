@@ -46,7 +46,7 @@
 
 ## :dart: About ##
 
-Describe your project
+Simple login form created with React and Formik that implements validations
 
 ## :rocket: Technologies ##
 
@@ -56,6 +56,11 @@ The following tools were used in this project:
 - React (https://pt-br.reactjs.org/)
 - VSCode (https://code.visualstudio.com)
 - Formik (https://formik.org)
+- Git (https://git-scm.com/)
+
+## :alien: Road touture improvements ##
+Several contact fields might be added, and other, more complex forms of validation too.
+
 
 ## :white_check_mark: Requirements ##
 
