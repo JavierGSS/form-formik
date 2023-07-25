@@ -1,12 +1,12 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Test React App" />
+  <img src="./.github/app.gif" alt="Simple React & Formik Form" />
 
   &#xa0;
 
   <!-- <a href="https://testreactapp.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Test React App</h1>
+<h1 align="center">Simple React & Formik Form</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{JavierGSS}}/test-react-app?color=56BEB8">
@@ -81,10 +81,10 @@ $ yarn start
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
 
 
-Made with :heart: by <a href="https://github.com/{{JavierGSS}}" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/{{JavierGSS}}" target="_blank">{{Baba}}</a>
 
 &#xa0;
 
