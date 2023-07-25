@@ -46,7 +46,7 @@
 
 ## :dart: About ##
 
-Simple login form created with React and Formik that implements validations
+Simple login form created with React and Formik that implements validation.
 
 ## :rocket: Technologies ##
 
