@@ -52,10 +52,10 @@ Describe your project
 
 The following tools were used in this project:
 
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [VSCode] (https://code.visualstudio.com)
-- [Formik] (https://formik.org)
+- Node.js (https://nodejs.org/en/)
+- React (https://pt-br.reactjs.org/)
+- VSCode (https://code.visualstudio.com)
+- Formik (https://formik.org)
 
 ## :white_check_mark: Requirements ##
 
@@ -84,7 +84,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
 
 
-Made with :heart: by <a href="https://github.com/{{JavierGSS}}" target="_blank">{{Baba}}</a>
+Made with :heart: by <a href="https://github.com/{{JavierGSS}}" target="_blank">Baba</a>
 
 &#xa0;
 
